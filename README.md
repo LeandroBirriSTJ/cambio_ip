@@ -1,7 +1,7 @@
 # cambio_ip
 Detecta un cambio de IP de un dominio y manda correo
 
-*Pre-requicitos*
+*prerrequisitos *
 
 ```
 sudo apt-get update
